@@ -1,2 +1,6 @@
 # hello-world2
-first repo
+
+
+Aloha, World.
+
+I am playing in github guide)
